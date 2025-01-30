@@ -1,0 +1,18 @@
+{
+    "name": "sergey/hexlet-php",
+    "description": "my fisrt config",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sergey\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZamSergey",
+            "email": "zamsergey@gmail.com"
+        }
+    ],
+    "require": {}
+}
